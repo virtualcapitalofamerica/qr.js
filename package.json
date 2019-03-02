@@ -1,5 +1,5 @@
 {
-  "name": "qr.js",
+  "name": "@virtualcapitalofamerica/qr.js",
   "version": "1.0.0",
   "description": "Cross-Browser QRCode generator",
   "main": "qrcode.js",
@@ -20,6 +20,9 @@
     "jquery"
   ],
   "author": "Virtual capital of America",
+  "contributors": [
+		"Camilo Alexander Rodriguez Cuaran <camilo.rodriguez@virtualcapitalofamerica.com>"
+	],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/virtualcapitalofamerica/qr.js/issues"
