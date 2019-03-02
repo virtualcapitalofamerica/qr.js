@@ -1,0 +1,28 @@
+{
+  "name": "qr.js",
+  "version": "1.0.0",
+  "description": "Cross-Browser QRCode generator",
+  "main": "qrcode.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualcapitalofamerica/qr.js.git"
+  },
+  "keywords": [
+    "qr",
+    "qrcode",
+    "javascript",
+    "js",
+    "codigo",
+    "generator",
+    "jquery"
+  ],
+  "author": "Virtual capital of America",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virtualcapitalofamerica/qr.js/issues"
+  },
+  "homepage": "https://github.com/virtualcapitalofamerica/qr.js#readme"
+}
